@@ -1,5 +1,3 @@
-# No-clone-Theorem-
-===
 # The No-Cloning Theorem, Demonstrated in Qiskit
 
 A small, tested Qiskit project that makes the quantum no-cloning theorem
