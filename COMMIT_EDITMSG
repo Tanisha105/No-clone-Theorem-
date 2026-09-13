@@ -1,0 +1,6 @@
+Add Qiskit demo and tests for the no-cloning theorem
+
+- CNOT-based cloning attempt shows perfect fidelity on basis states,
+  imperfect + entangled results on every superposition
+- Teleportation demo shows the theorem-respecting alternative
+- 18 passing pytest cases verifying every claim in the README
