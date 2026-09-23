@@ -8,7 +8,6 @@ from one place to another.
 
 ![Cloning fidelity vs. input state](assets/fidelity_vs_theta.png)
 
-## The theorem, in plain terms
 
 **No-cloning theorem:** there is no unitary operation `U` that takes an
 *arbitrary, unknown* quantum state `|ψ⟩` and a blank qubit `|0⟩` and produces
